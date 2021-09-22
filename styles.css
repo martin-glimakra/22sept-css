@@ -1,0 +1,29 @@
+#exempel {
+    background-color: blue;
+}
+
+#exempel2 {
+    background-color: chartreuse;
+}
+
+.exempel-klass {
+    background-color: crimson;
+}
+
+.exempel-klass2 {
+    padding: 30px;
+}
+
+p {
+    background-color: darkgreen;
+}
+
+.primary-button {
+    background-color: darkmagenta;
+    padding: 20px;
+}
+
+#submit-button{
+    background-color: green;
+    padding: 22px;
+}
